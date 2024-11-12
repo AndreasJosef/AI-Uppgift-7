@@ -12,8 +12,7 @@ Syftet med detta projekt är att förstå hur datakvalitet påverkar AI-systemen
 
 ## Projektstruktur
 
-- **data/**: Innehåller rådata och bearbetade datafiler.
-  - `raw/`: Mapp för rådatafiler.
+- **data/**: Innehåller datafiler.
   - `processed/`: Mapp för bearbetade/rensade datafiler.
 
 - **scripts/**: Python-skript för varje uppgift.
@@ -23,7 +22,6 @@ Syftet med detta projekt är att förstå hur datakvalitet påverkar AI-systemen
 
 - **reports/**: Innehåller figurer och en sammanfattning av resultaten.
   - `figures/`: Mapp för att spara diagram och figurer.
-  - `summary.md`: Markdown-fil för att sammanfatta resultaten.
 
 - **requirements.txt**: Lista över projektets beroenden.
 
@@ -35,7 +33,3 @@ Syftet med detta projekt är att förstå hur datakvalitet påverkar AI-systemen
 2. Installera nödvändiga beroenden med `pip install -r requirements.txt`.
 3. Kör skripten i `scripts/`-mappen för att utföra de olika uppgifterna.
 4. Granska resultaten och figurerna i `reports/`-mappen.
-
-## Kontakt
-
-För frågor eller ytterligare information, vänligen kontakta din kursledare.
