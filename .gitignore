@@ -1,0 +1,24 @@
+# Ignore all CSV files in the data/processed folder
+data/processed/*.csv
+
+# Ignore all PNG images in the reports/figures folder
+reports/figures/*.png
+
+# Ignore all markdown files in the reports folder
+reports/*.md
+
+# General ignores for Python projects
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Ignore virtual environment folders (if any)
+env/
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
