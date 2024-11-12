@@ -1,6 +1,6 @@
-# AI Data Quality Project
+# AI Datakvalitet Projekt Komvux
 
-Detta är uppgift 7 för AI 1 1-kursen på Komvux.
+Detta är uppgift 7 för AI 1 kursen på Komvux.
 
 ## Projektöversikt
 
